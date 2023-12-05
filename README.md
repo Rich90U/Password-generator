@@ -17,4 +17,6 @@ This web application allows users to generate secure passwords with various opti
 
 Simply clone the repository to your local machine and open the `index.html` file in a web browser.
 
+## Link to website
+
 https://rich90u.github.io/Password-generator/
